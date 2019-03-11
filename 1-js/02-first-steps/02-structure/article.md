@@ -136,7 +136,7 @@ alert('World');
 ```
 
 ```smart header="使用热键！"
-在大多数的编辑器中，一行代码可以使用 `key:Ctrl+/` 热键进行单行注释，诸如 `key:Ctrl+Shift+/` 的热键可以进行多行注释（选择代码，然后按下热键）。对于 Mac 电脑，应使用 `key:Cmd` 而不是 `key:Ctrl`。
+在大多数的编辑器中，一行代码可以使用 `key:Ctrl+/` 热键进行单行注释，诸如 `key:Ctrl+/` 的热键可以进行多行注释（选择代码，然后按下热键）。对于 Mac 电脑，应使用 `key:Cmd` 而不是 `key:Ctrl`。
 ```
 
 ````warn header="不支持注释嵌套！"
